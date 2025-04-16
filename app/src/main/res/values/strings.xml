@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+        <string name="hokage1">Hashirama Senju</string>
+        <string name="hashirama">Hokage Pertama.</string>
+
+        <string name="hokage2">Tobirama Senju</string>
+        <string name="tobirama">Hokage Kedua.</string>
+
+        <string name="hokage3">Hiruzen Sarutobi</string>
+        <string name="hiruzen">Hokage Ketiga.</string>
+
+        <string name="hokage4">Minato Namikaze</string>
+        <string name="minato">Hokage Keempat.</string>
+
+        <string name="hokage7">Naruto Uzumaki</string>
+        <string name="naruto">Hokage Ketujuh.</string>
+</resources>
